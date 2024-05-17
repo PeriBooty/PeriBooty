@@ -1,4 +1,12 @@
-### Hi there 👋
+Hi.
+
+I'm Shad, one of the online usernames I have is PeriBooty. I am a developer both as a hobby and as a profession. This is literally what I spend 90% of my time doing.
+
+I professionally work with Java, JavaScript, Python, C++ and SQLServer (yeah I know that's kinda cheating.) However, I also know quite a few languages from the hobby side. Those are (at least what I've used recently) Rust, C (yeah I know that's kinda cheating since I professionally use C++), C#, Lua, Haxe, GameMaker Language, Kotlin, and Haskell (still getting the hang of this one.)
+
+I'm a fairly shy individual so I usually stick to private/small repos, so if you happen to see me then go buy a lottery ticket, because you are one of a very few.
+
+I'll (probably) update this later to be a bit prettier and use those fancy GitHub Stats I've been seeing around.
 
 <!--
 **PeriBooty/PeriBooty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
